@@ -1,4 +1,2 @@
-mazu a je to supr
-tohle je na origin
-a pridam druhy radek
+a zacnu uplne od znova na origin
 
