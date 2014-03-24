@@ -1,1 +1,2 @@
-toje vono
+toje vono vole
+a pridam druhy radek
